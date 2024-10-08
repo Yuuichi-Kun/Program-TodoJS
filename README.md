@@ -1,55 +1,18 @@
-# 📝 Aplikasi To-Do List Sederhana
+# 💫 About Me:
+I'm a student learning about programming.<br>I have understanding on A.I, Python, HTML, Javascript, Php, C#, and C++.<br>I'm still learning a bunch of thing as im still an amateur but I have experience in making games.<br>I hope I could further improve my skill so that I can go into my dream university in Japan.
 
-Selamat datang di repositori **To-Do List** ini! 🚀
 
-## Tentang Proyek Ini
-Repositori ini berisi **aplikasi To-Do List sederhana**. Namun, ada sedikit tantangan menarik: **tidak ada kode JavaScript yang dipublikasikan** di sini! 😱
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ichisaki.yukio) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@YukioCh.) 
 
-Iya, Anda tidak salah baca. Kode JavaScript yang menghidupkan aplikasi ini **sengaja disembunyikan** oleh pemilik repositori. Tujuannya adalah agar **Anda** bisa belajar, mengembangkan kreativitas, dan menulis kode JavaScript sendiri untuk menghidupkan aplikasi ini.
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Yuuichi-Kun&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Yuuichi-Kun&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuuichi-Kun&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-Setelah Anda berhasil menambahkan fungsionalitas dan aplikasi To-Do List ini berjalan dengan baik, **silakan lakukan Pull Request** dan tunjukkan hasil kerja Anda kepada komunitas!
+---
+[![](https://visitcount.itsvg.in/api?id=Yuuichi-Kun&icon=4&color=0)](https://visitcount.itsvg.in)
 
-## 🎯 Fitur Aplikasi
-Fitur utama yang seharusnya dimiliki aplikasi To-Do List ini adalah:
-- Menambahkan tugas baru
-- Menandai tugas sebagai "selesai"
-- Menghapus tugas dari daftar
-
-Anda bisa menambahkan fitur menarik lainnya, seperti:
-- Penyimpanan tugas di `localStorage`
-- Filter untuk melihat tugas yang selesai atau belum
-- Tampilan responsif untuk perangkat mobile
-
-## 🛠 Teknologi yang Digunakan
-Berikut adalah beberapa teknologi yang Anda gunakan untuk menghidupkan aplikasi ini:
-- **HTML**: Struktur dasar halaman
-- **CSS**: Styling agar aplikasi terlihat cantik dan rapi
-- **JavaScript**: (Nah ini tugas Anda!) Fungsionalitas interaktif untuk membuat aplikasi ini benar-benar bekerja
-
-## 🚀 Langkah-langkah Pengembangan
-1. **Fork repositori ini** untuk membuat salinan di akun GitHub Anda.
-2. Clone repositori hasil fork ke komputer Anda:
-   ```bash
-   git clone https://github.com/riskiputraalamzah/todo-list
-   ```
-3. Buka file `index.html` di browser untuk melihat tampilan dasar aplikasi.
-4. Tulis dan tambahkan **kode JavaScript** Anda untuk membuat aplikasi ini berfungsi:
-   - Manipulasi DOM untuk menambahkan, menghapus, atau menandai tugas sebagai selesai.
-   - Event listeners untuk interaksi pengguna.
-5. Jika sudah selesai dan aplikasi berjalan dengan baik, lakukan **Pull Request** ke repositori asli ini.
-
-## 📬 Kontribusi
-Kami sangat terbuka terhadap kontribusi dari Anda! 🎉 Jika Anda sudah menyelesaikan tantangan ini:
-1. Fork dan clone repositori ini.
-2. Lakukan perbaikan dan tambahkan fitur di dalam kode.
-3. Lakukan **Pull Request** agar hasil karya Anda bisa di-review dan digabungkan.
-
-Ingat, **tidak ada jawaban yang benar atau salah**, hanya kreativitas dan semangat belajar yang kami tunggu! 😎
-
-## 📢 Catatan
-Repo ini dirancang untuk menjadi tantangan yang menyenangkan sekaligus kesempatan belajar bagi Anda yang ingin berlatih mengembangkan aplikasi JavaScript dari nol.
-
-Jika Anda membutuhkan bantuan atau memiliki pertanyaan, jangan ragu untuk menghubungi kami melalui Issues.
-
-Selamat coding dan semoga sukses! 🎉
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
